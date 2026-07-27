@@ -17,6 +17,6 @@
     "demf-kpim-measures-list": "https://cdn.jsdelivr.net/npm/demf-kpim-measures-list@3.2.0/mf-app.js",
     "demf-kpim-measure": "https://cdn.jsdelivr.net/npm/demf-kpim-measure@3.2.0/mf-app.js",
     "demf-kpim-compare": "https://cdn.jsdelivr.net/npm/demf-kpim-compare@3.1.0/mf-app.js",
-    "demf-gui-root": "https://kpi-manager.avant.digital-enabler.eng.it/demf-kpim-gui.js"
+    "demf-gui-root": "http://localhost:9000/demf-kpim-gui.js"
   }
 }
