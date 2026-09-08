@@ -2,5 +2,5 @@
   "name": "KPIs List",
   "mf": "demf-kpis-list",
   "api": "//localhost:32000/api/v1",
-  "storageImgs": "https://storage.digital-enabler.eng.it/imgs"
+  "storageImgs": "https://imgs.web.garage.digital-enabler.eng.it"
 }
